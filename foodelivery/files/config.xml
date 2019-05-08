@@ -1,0 +1,8 @@
+<my_config>
+	<configuration>
+		<notification_email>julialeshheva@yandex.ru</notification_email>
+		<currency_symbol>руб.</currency_symbol>
+		<currency_code>RUB</currency_code>
+		<paypal_account>juliaisbeautiful@gmail.com</paypal_account>
+	</configuration>
+</my_config>

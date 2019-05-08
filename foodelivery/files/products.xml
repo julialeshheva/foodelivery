@@ -1,0 +1,108 @@
+﻿<my_products>
+	<product>
+		<id>1</id>
+		<name>Филадельфия</name>
+		<price>5.00</price>
+		<description>
+			Филадельфия, 8 шт, 220 г
+            Рис, нори, сыр сливочный, лосось, огурец
+		</description>
+		<img_link>files\images\1.png</img_link>
+	</product>
+	<product>
+		<id>2</id>
+		<name>Сет легкий</name>
+		<price>550.00</price>
+		<description>
+			Сет легкий, 16 шт, 387 г
+				Роллы:
+				Футо маки с тунцом и огурцом
+				С тунцом классический
+			
+		</description>
+		<img_link>files\images\2.png</img_link>
+	</product>
+	<product>
+		<id>3</id>
+		<name>Сакада</name>
+		<price>200.00</price>
+		<description>
+			Сакада, 8 шт, 195 г
+            Рис, нори, салат чука, соус ореховый, морской язык в темпуре
+		</description>
+		<img_link>files\images\3.png</img_link>
+	</product>
+	<product>
+		<id>4</id>
+		<name>Сет весенний</name>
+		<price>769.00</price>
+		<description>
+			Сет весенний, 17 шт, 378 г
+          Роллы:
+			Филадельфия спешл с лососем
+			Огурец классический
+			С крабом классический
+		</description>
+		<img_link>files\images\4.png</img_link>
+	</product>
+	<product>
+		<id>5</id>
+		<name>Сырный</name>
+		<price>240.00</price>
+		<description>
+			Сырный, 8 шт, 215 г
+            Рис, нори, сыр сливочный, курица терияки, лист салата, сыр твёрдый, соус унаги
+		</description>
+		<img_link>files\images\5.png</img_link>
+	</product>
+	<product>
+		<id>6</id>
+		<name>Юган</name>
+		<price>130.00</price>
+		<description>
+			Юган, 8 шт, 230 г
+            Рис, нори, краб, сыр сливочный, огурец, омлет томаго, кунжут, майонез
+		</description>
+		<img_link>files\images\6.png</img_link>
+	</product>
+	<product>
+		<id>7</id>
+		<name>Сет королевский</name>
+		<price>1150.00</price>
+		<description>
+			Сет королевский, 34 шт, 760 г
+				Роллы:
+				Хоккайдо с лососем на коже
+				Сенсей с копченой курицей
+				С креветкой классический
+				Лосось классический
+				С мидиями классический
+		</description>
+		<img_link>files\images\7.png</img_link>
+	</product>
+	<product>
+		<id>8</id>
+		<name>Американо NEW</name>
+		<price>850.00</price>
+		<description>
+			Американо NEW, 38 шт, 925 г
+					Роллы:
+					Филадельфия с лососем
+					Эсколар классический с масляной рыбой
+					Калифорния классик с крабом
+					Невада с угрем и такуаном
+					Нью-Йорк с лососем и лососевой икрой
+		</description>
+		<img_link>files\images\8.png</img_link>
+	</product>
+	<product>
+		<id>9</id>
+		<name>Боуши</name>
+		<price>190.00</price>
+		<description>
+			Студент, 8 шт, 200 г
+            Рис, нори, сыр сливочный, томаго омлет, огурец, тобико красная
+		</description>
+		<img_link>files\images\9.png</img_link>
+	</product>
+</my_products>
